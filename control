@@ -1,0 +1,9 @@
+Package: com.ps.igotnosecret
+Name: IGotNoSecret
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Unblur the Instagram stories that need messaging first to reveal.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
